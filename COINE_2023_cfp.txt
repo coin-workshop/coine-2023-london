@@ -102,6 +102,8 @@ The page lengths mentioned above include figures and references. All papers must
 For submission of papers, please use the EasyChair site at:
 ~~https://easychair.org/conferences/?conf=coine2022~~
 
+https://easychair.org/conferences/?conf=coine2022
+
 Submitted papers will be reviewed on a "single-blind" basis by at least two reviewers.
 
 Submission of a paper should be regarded as an undertaking that, should 
