@@ -16,7 +16,7 @@ We solicit three types of papers in the [LNCS format](https://www.springer.com/g
 
 The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
-~~For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)~~
+For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2023](https://easychair.org/conferences/?conf=coine2023)
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two reviewers.
 
