@@ -50,7 +50,7 @@ We solicit three types of papers in the [LNCS format](https://www.springer.com/g
 - Short research papers (10 pages, excluding references) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
 - Blue sky ideas (up to 16 pages, excluding references) – These papers have the same scope of the blue sky ideas track of AAMAS 2023 (see [https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/](https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/)), focussing on the COINE topics
 
-The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
+All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
 For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2023](https://easychair.org/conferences/?conf=coine2023)
 
