@@ -10,9 +10,9 @@ title: COINE
 For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. 
 
 We solicit three types of papers in the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
-- Full research papers (16 pages)
-- Short research papers (10 pages) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
-- Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2023 (see [https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/](https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/)), focussing on the COINE topics
+- Full research papers (16 pages, excluding references)
+- Short research papers (10 pages, excluding references) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
+- Blue sky ideas (up to 16 pages, excluding references) – These papers have the same scope of the blue sky ideas track of AAMAS 2023 (see [https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/](https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/)), focussing on the COINE topics
 
 The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
