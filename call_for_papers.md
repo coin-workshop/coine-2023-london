@@ -3,6 +3,8 @@ layout: default
 title: COINE
 ---
 
+💥 __*<span style="color:blue">Paper submission deadline extended to February 22, 2023 </span>*__
+
 # Call for Papers
 
 COINE 2023 is co-located with the International Conference on Autonomous Agents and
