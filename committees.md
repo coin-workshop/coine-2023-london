@@ -13,24 +13,24 @@ title: COINE
 
 ## Programme Committee
 
-- Huib Aldewereld (HU University of Applied Sciences, NL)
-- Natasha Alechina (Utrecht University, NL)
-- Stefania Costantini (University of L'Aquila, IT)
-- Marina De Vos (University of Bath, UK)
-- Nicoletta Fornara (Università della Svizzera italiana, CH)
-- Christopher Frantz (Norwegian University of Science and Technology, NO)
+- Andreasa Morris-Martin (University of Bath, UK)
 - Benjamin Kuipers (University of Michigan, US)
-- Maite Lopez-Sanchez (University of Barcelona, ES)
+- Christopher Frantz (Norwegian University of Science and Technology, NO)
 - Eric Matson (Purdue University, US)
+- Frank Dignum (Umeå University, SW)
+- Harko Verhagen (Stockholm University, SE)
+- Huib Aldewereld (HU University of Applied Sciences, NL)
+- Jaime Simão Sichman (Universidade de São Paulo, BR)
+- Jeremy Pitt (Imperial College London, UK)
 - Juan Carlos Nieves (Umeå University, SE)
-- Pablo Noriega (IIIA-CSIC, ES)
 - Julian Padget (University of Bath, UK)
 - Luís Moniz Pereira (Universidade Nova de Lisboa, PT)
-- Jaime Simão Sichman (Universidade de São Paulo, BR)
-- M. Birna van Riemsdijk (University of Twente, NL)
-- Harko Verhagen (Stockholm University, SE)
-- Pınar Yolum (Utrecht University, NL)
+- Maite Lopez-Sanchez (University of Barcelona, ES)
+- Marina De Vos (University of Bath, UK)
+- Munindar Singh (North Carolina State University, US)
+- Natasha Alechina (Utrecht University, NL)
 - Nirav Ajmeri, University of Bristol, UK
-- Stephen Cranefield, University of Otago, NZ
-- Tony Savarimuthu, University of Otago, NZ
-
+- Pablo Noriega (IIIA-CSIC, ES)
+- Pınar Yolum (Utrecht University, NL)
+- Stefania Costantini (University of L’Aquila, IT)
+- Tony Savarimuthu (University of Otago, NZ)
