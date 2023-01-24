@@ -29,7 +29,7 @@ title: COINE
 - Marina De Vos (University of Bath, UK)
 - Munindar Singh (North Carolina State University, US)
 - Natasha Alechina (Utrecht University, NL)
-- Nirav Ajmeri, University of Bristol, UK
+- Nirav Ajmeri (University of Bristol, UK)
 - Pablo Noriega (IIIA-CSIC, ES)
 - Pınar Yolum (Utrecht University, NL)
 - Stefania Costantini (University of L’Aquila, IT)
