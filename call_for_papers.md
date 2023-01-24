@@ -35,9 +35,9 @@ COINE inherited COIN's B-rating on the Computing Research and Education Associat
 
 
 ### Important Dates 
-- Paper submission: January 30, 2023
-- Author notifications: March 13, 2023 
-- Camera-ready deadline: April 3, 2023 
+- Paper submission: ~~January 30, 2023~~ 
+- Author notifications: ~~March 13, 2023 ~~
+- Camera-ready deadline: ~~April 3, 2023 ~~
 - Workshop: 29-30 May 2023
 
 
