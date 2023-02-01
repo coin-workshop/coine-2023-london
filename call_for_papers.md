@@ -8,7 +8,7 @@ title: COINE
 # Call for Papers
 
 COINE 2023 is co-located with the International Conference on Autonomous Agents and
-Multiagent Systems (AAMAS), London, United Kingdom, 29-30 May 2023 [https://aamas2023.soton.ac.uk/](https://aamas2023.soton.ac.uk/)
+Multiagent Systems (AAMAS), London, United Kingdom, 29 May 2023 [https://aamas2023.soton.ac.uk/](https://aamas2023.soton.ac.uk/)
 
 ### Overview
 
@@ -40,7 +40,7 @@ COINE inherited COIN's B-rating on the Computing Research and Education Associat
 - Paper submission: ~~January 30, 2023~~ February 22, 2023
 - Author notifications: ~~March 13, 2023~~ March 27, 2023
 - Camera-ready deadline: ~~April 3, 2023~~ April 16, 2023
-- Workshop: 29-30 May 2023
+- Workshop: 29 May 2023
 
 
 ### Instructions for Authors
