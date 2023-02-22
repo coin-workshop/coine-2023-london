@@ -4,7 +4,7 @@ title: COINE
 ---
 
 
-💥 __*<span style="color:blue">Paper submission deadline extended to February 22, 2023 </span>*__
+💥 __*<span style="color:blue">Paper submission deadline extended to March 5, 2023 </span>*__
 
 # Objectives
 
@@ -18,7 +18,7 @@ This edition of COINE will be hosted by [AAMAS 2023](https://aamas2023.soton.ac.
 
 
 # Important Dates
-- Paper submission: ~~January 30, 2023~~ February 22, 2023
-- Author notifications: ~~March 13, 2023~~ March 27, 2023
-- Camera-ready deadline: ~~April 3, 2023~~ April 16, 2023
+- Paper submission: ~~January 30, 2023~~ ~~February 22, 2023~~ March 5, 2023
+- Author notifications: ~~March 13, 2023~~ ~~March 27, 2023~~ March 12, 2023
+- Camera-ready deadline: ~~April 3, 2023~~ ~~April 16, 2023~~ April 30, 2023
 - Workshop: 29 May 2023
