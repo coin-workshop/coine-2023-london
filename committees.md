@@ -31,6 +31,6 @@ title: COINE
 - Nirav Ajmeri (University of Bristol, UK)
 - Olivier	Boissier (School of Mines of Saint-Étienne, FR)
 - Pablo Noriega (IIIA-CSIC, ES)
-- Pınar Yolum (Utrecht University, NL)
+- Pinar Yolum (Utrecht University, NL)
 - Stefania Costantini (University of L’Aquila, IT)
 - Tony Savarimuthu (University of Otago, NZ)
