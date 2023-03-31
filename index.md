@@ -3,8 +3,9 @@ layout: default
 title: COINE
 ---
 
-
-💥 __*<span style="color:blue">Paper submission deadline extended to March 5, 2023 (Closed) </span>*__
+* __*<span style="color:blue">Workshop joining link available now </span>*__ 💥
+* __*<span style="color:blue">Notifications sent out on March 28, 2022 </span>*__ 
+* __*<span style="color:blue">Paper submission deadline extended to March 5, 2023 (Closed) </span>*__
 
 # Objectives
 
