@@ -5,7 +5,7 @@ title: COINE
 
 # Papers Accepted for Presentation
 
-- Jonathan Kwik, Tomasz Zurek and Tom van Engers. Designing International Humanitarian Law into military autonomous devices [\[PDF\]]({{ site.path }}/papers/paper-1.pdf)
+- Caren Al Anaissy, Srdjan Vesic, and Nathalie Nevejans .Towards Ethical Argumentative Persuasive Chatbots [\[PDF\]]({{ site.path }}/papers/paper-1.pdf)
 - Michael Oesterle, Christian Bartelt, Stefan Lüdtke and Heiner Stuckenschmidt. Self-Learning Governance of Black-Box Multi-Agent Systems [\[PDF\]]({{ site.path }}/papers/paper-2.pdf)
 - Emre Erdogan, Frank Dignum, Rineke Verbrugge and Pinar Yolum. Computational Theory of Mind for Human-Agent Coordination [\[PDF\]]({{ site.path }}/papers/paper-3.pdf)
 - Rafael Molinari Cheang, Anarosa Alves Franco Brandão and Jaime Simão Sichman. Centralized Norm Enforcement in Mixed-Motive Multiagent Reinforcement Learning [\[PDF\]]({{ site.path }}/papers/paper-4.pdf)
