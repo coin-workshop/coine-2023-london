@@ -42,7 +42,7 @@ title: COINE
   Caren Al Anaissy, Srdjan Vesic, and Nathalie Nevejans 
 - Uncertain Machine Ethical Decisions Using Hypothetical Retrospection <br/>
   Simon Kolker, Louise Dennis, Ramon Fraga Pereira, and Mengwei Xu
-- Towards Convention-Based Game Strategies (short) <br/>
+- Towards Convention-Based Game Strategies (short paper) <br/>
   Shuxian Pan and Carles Sierra
 
 [**17:50 &ndash; 18:30**] **Closing Session**
