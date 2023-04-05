@@ -13,7 +13,7 @@ title: COINE
 [**10:30 &ndash; 12:30**] **Session 1: Norms, Social contracts, Institutions, and Privacy**
 
 - PACCART: Reinforcing Trust in Multiuser Privacy Agreement System <br/>
-  Daan Di Scala and Pınar Yolum
+  Daan Di Scala and Pinar Yolum
 - Generalising Axelrod's metanorm game through the use of explicit domain-specific norms <br/>
   Abira Sengupta, Stephen Cranefield, and Jeremy Pitt
 - Incentivising Participation With Exclusionary Sanctions <br/>
