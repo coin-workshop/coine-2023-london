@@ -5,7 +5,7 @@ title: COINE
 
 # Papers Accepted for Presentation
 
-1. Caren Al Anaissy, Srdjan Vesic, and Nathalie Nevejans. Towards Ethical Argumentative Persuasive Chatbots (full) [[PDF]]({{ site.path }}/papers/paper-1.pdf).
+1. Caren Al Anaissy, Srdjan Vesic, and Nathalie Nevejans. Towards Ethical Argumentative Persuasive Chatbots (full) [[PDF]]({{ site.path }}/Papers/Paper-1.pdf).
 2. Daan Di Scala and Pınar Yolum. PACCART: Reinforcing Trust in Multiuser Privacy Agreement Systems (full).
 3. Pablo Noriega, Harko Verhagen, Julian Padget, and Mark d’Inverno.  Arguments for Framing the Value Alignment Problems with Online Institutions (full).
 4. David Marin Gutierrez, Javier Vazquez-Salceda, Sergio Alvarez-Napagao, and Dmitry Gnatyshak.  Adding Preferences and Moral Values in an Agent-Based Simulation framework for High-Performance Computing (full).
