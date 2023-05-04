@@ -7,7 +7,7 @@ title: COINE
 
 1. Caren Al Anaissy, Srdjan Vesic, and Nathalie Nevejans. Towards Ethical Argumentative Persuasive Chatbots (full) [\[PDF\]]({{ site.path }}/Papers/Paper-1.pdf).
 2. Daan Di Scala and Pınar Yolum. PACCART: Reinforcing Trust in Multiuser Privacy Agreement Systems (full) [\[PDF\]]({{ site.path }}/Papers/Paper-2.pdf).
-3. Pablo Noriega, Harko Verhagen, Julian Padget, and Mark d’Inverno.  Arguments for Framing the Value Alignment Problems with Online Institutions (full) [\[PDF\]]({{ site.path }}/Papers/Paper-3.pdf).
+3. Pablo Noriega, Harko Verhagen, Julian Padget, and Mark d’Inverno.  Addressing the Value Alignment Problem through Online Institutions (full) [\[PDF\]]({{ site.path }}/Papers/Paper-3.pdf).
 4. David Marin Gutierrez, Javier Vazquez-Salceda, Sergio Alvarez-Napagao, and Dmitry Gnatyshak.  Adding Preferences and Moral Values in an Agent-Based Simulation framework for High-Performance Computing (full) [\[PDF\]]({{ site.path }}/Papers/Paper-4.pdf).
 5. Abira Sengupta, Stephen Cranefield, and Jeremy Pitt.  Generalising Axelrod’s metanorm game through the use of explicit domain-specific norms (full) [\[PDF\]]({{ site.path }}/Papers/Paper-5.pdf).
 6. Hasra Dodampegama and Mohan Sridharan. Coordination in Ad Hoc Teams using Knowledge-based Reasoning and Learning (full) [\[PDF\]]({{ site.path }}/Papers/Paper-6.pdf).
