@@ -10,7 +10,7 @@ title: COINE
 ## Marina De Vos
 Senior Lecturer, Department of Computer Science, University of Bath, UK
 
-<img src="images/Munindar-Singh-headshot.jpg" alt="Munindar P. Singh" width="240px"/>
+<img src="images/Munindar-Singh-headsho.jpg" alt="Munindar P. Singh" width="240px"/>
 
 ### Consent as a Foundation for Responsible Autonomy
 
