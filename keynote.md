@@ -7,8 +7,8 @@ title: COINE
 
 
 
-## Munindar P. Singh
-Alumni Distinguished Graduate Professor, Department of Computer Science, North Carolina State University, United States
+## Marina De Vos
+Senior Lecturer, Department of Computer Science, University of Bath, UK
 
 <img src="images/Munindar-Singh-headshot.jpg" alt="Munindar P. Singh" width="240px"/>
 
