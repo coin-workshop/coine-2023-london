@@ -7,6 +7,6 @@ title: COINE
 
 
 
-## [https://researchportal.bath.ac.uk/en/persons/marina-de-vos/] (Marina De Vos)
+## [Marina De Vos] (https://researchportal.bath.ac.uk/en/persons/marina-de-vos/)
 Senior Lecturer, Department of Computer Science, University of Bath, UK
 
