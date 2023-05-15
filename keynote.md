@@ -9,7 +9,7 @@ title: COINE
 
 [Marina De Vos](https://researchportal.bath.ac.uk/en/persons/marina-de-vos/)
 
-Senior Lecturer, Department of Computer Science, University of Bath, UK
+Department of Computer Science, University of Bath, UK
 
 Marina De Vos is a Senior Lecturer/Associate Professor in artificial intelligence and director of training for the UKRI Centre for Doctoral Training in Accountable, Responsible and Transparent AI at the University of Bath.  Marina's research interests lie in automated human reasoning to allow better access to specialist knowledge, explainable artificial intelligence methods and modelling the behaviour of autonomous systems. Some application areas of her work are normative systems, legal reasoning, automated music composition and assessing building damage after earthquakes. 
 
