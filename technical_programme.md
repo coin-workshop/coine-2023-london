@@ -7,7 +7,7 @@ title: COINE
 
 
 [**09:00 &ndash; 10:00**] **Keynote Address** by Marina De Vos from the Department of Computer Science, University of Bath, UK <br/>
-  Topic:- Evolving normative systems: Allowing the system to adapt to changing needs
+  Topic:- [Evolving normative systems: Allowing the system to adapt to changing needs] (
 
 [**10:00 &ndash; 10:30**] **Coffee Break**
 
