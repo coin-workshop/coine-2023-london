@@ -11,6 +11,9 @@ title: COINE
 
 Department of Computer Science, University of Bath, UK
 
+<img src="images/Merina_image.png" alt="Merina De Vos" width="240px"/>
+
+
 ### Evolving normative systems: Allowing the system to adapt to changing needs
 
 Bio: Marina De Vos is a Senior Lecturer/Associate Professor in artificial intelligence and director of training for the UKRI Centre for Doctoral Training in Accountable, Responsible and Transparent AI at the University of Bath.  Marina's research interests lie in automated human reasoning to allow better access to specialist knowledge, explainable artificial intelligence methods and modelling the behaviour of autonomous systems. Some application areas of her work are normative systems, legal reasoning, automated music composition and assessing building damage after earthquakes. 
