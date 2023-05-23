@@ -6,6 +6,7 @@ title: COINE
 # Schedule
 
 
+[**08:45 &ndash; 09:00**] **Welcome session** <br/>
 [**09:00 &ndash; 10:00**] **Keynote Address** by Marina De Vos from the Department of Computer Science, University of Bath, UK <br/>
   Topic:- [Evolving normative systems: Allowing the system to adapt to changing needs](https://coin-workshop.github.io/coine-2023-london/keynote.html)
 
