@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-* __*<span style="color:blue">Google drive location for sharing presentation materials </span>*__ 💥 https://drive.google.com/drive/folders/12puWMm1yXBWqgUf1rVPxJwrhHtsxJ7dT
+* __*<span style="color:blue">Google drive location for sharing presentation materials </span>*__ 💥 (https://drive.google.com/drive/folders/12puWMm1yXBWqgUf1rVPxJwrhHtsxJ7dT) [https://drive.google.com/drive/folders/12puWMm1yXBWqgUf1rVPxJwrhHtsxJ7dT]
 
 * __*<span style="color:blue">Workshop registration link available now </span>*__
 * __*<span style="color:blue">Schedule is avaible now </span>*__ 
