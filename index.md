@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-* __*<span style="color:blue">Workshop joining link available now </span>*__ 💥
+* __*<span style="color:blue">Workshop registration link available now </span>*__ 💥
 * __*<span style="color:blue">Schedule is avaible now </span>*__ 
 * __*<span style="color:blue">Notifications sent out on March 28, 2023 </span>*__ 
 * __*<span style="color:blue">Paper submission deadline extended to March 5, 2023 (Closed) </span>*__
